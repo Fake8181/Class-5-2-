@@ -1,0 +1,40 @@
+#st{
+    width: fit-content;
+    margin:auto;
+    background-color: #e1e0e0;
+    align-items: center;
+    padding: 15px 20px;
+}
+.parent{  
+    display: inline-block;
+    background-color: whitesmoke;
+    box-sizing: border-box;
+    margin: 10px 10px;
+    padding: 15px 20px;
+    border-radius: 5px 5px;
+}
+.head{
+    color: white;
+    background-color: purple;
+    padding: 3px 3px;
+    width: 20%;
+    border-radius: 0 10px 10px 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    transition: .3ms;
+} 
+a:hover{
+    color: chocolate;
+}
+p{
+    color: chocolate;
+    font-size: 20px;
+}
+.sp{
+    text-decoration: line-through;
+    color: #7a7575;
+    font-size: 15px;
+}
